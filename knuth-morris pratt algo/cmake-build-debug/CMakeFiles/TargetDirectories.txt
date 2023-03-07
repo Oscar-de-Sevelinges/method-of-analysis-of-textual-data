@@ -1,0 +1,3 @@
+C:/Users/oscar/OneDrive/Bureau/method of analysis of textual data/knuth-morris pratt algo/cmake-build-debug/CMakeFiles/knuth_morris_pratt_algo.dir
+C:/Users/oscar/OneDrive/Bureau/method of analysis of textual data/knuth-morris pratt algo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/oscar/OneDrive/Bureau/method of analysis of textual data/knuth-morris pratt algo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

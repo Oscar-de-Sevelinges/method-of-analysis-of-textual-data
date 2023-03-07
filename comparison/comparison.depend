@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1634680128 source:c:\users\oscar\onedrive\bureau\method of analysis of textual data\comparison\dfa.cpp
+	"dfa.h"
+
+1634680128 c:\users\oscar\onedrive\bureau\method of analysis of textual data\comparison\dfa.h
+	<iostream>
+
+1634753099 source:c:\users\oscar\onedrive\bureau\method of analysis of textual data\comparison\horspool.cpp
+	"horspool.h"
+
+1634734927 c:\users\oscar\onedrive\bureau\method of analysis of textual data\comparison\horspool.h
+	<iostream>
+	<vector>
+
+1634733100 source:c:\users\oscar\onedrive\bureau\method of analysis of textual data\comparison\main.cpp
+	<iostream>
+	<chrono>
+	<fstream>
+	"naive.h"
+	"kmp.h"
+	"dfa.h"
+	"horspool.h"
+
+1634680359 c:\users\oscar\onedrive\bureau\method of analysis of textual data\comparison\naive.h
+	<iostream>
+
+1634680360 c:\users\oscar\onedrive\bureau\method of analysis of textual data\comparison\kmp.h
+	<iostream>
+	<vector>
+	<cstring>
+
+1634726341 source:c:\users\oscar\onedrive\bureau\method of analysis of textual data\comparison\naive.cpp
+	"naive.h"
+
+1634727698 source:c:\users\oscar\onedrive\bureau\method of analysis of textual data\comparison\kmp.cpp
+	"kmp.h"
+

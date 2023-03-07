@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/oscar/OneDrive/Bureau/method of analysis of textual data/boyer-moore-horspool/main.cpp
+iostream
+-
+chrono
+-
+fstream
+-
+
